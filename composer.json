@@ -10,6 +10,6 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "merry-goblin/barcode-writer-composer": "1.0.0"
+        "merry-goblin/barcode-writer-composer": "dev-main"
     }
 }
